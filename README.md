@@ -29,4 +29,4 @@
 ## Reference 
 - Implemented audio recording setup parameters, buffer size calculation, and exceptions for microphone permissions with AI assistance.
 
-- Developed the calculateDecibels function, including RMS computation, dB conversion, and normalization, with help from AI.
+- Developed RMS computation, dB conversion, and normalization with help from AI.
