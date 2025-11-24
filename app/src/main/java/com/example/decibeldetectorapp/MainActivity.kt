@@ -75,7 +75,7 @@ fun DecibelMeterScreen(
     var decibels by remember { mutableStateOf(0f) }
 
     var alertShown by remember { mutableStateOf(false) }
-    var errorMessage by remember { mutableStateOf("") }
+   
     val scope = rememberCoroutineScope()
     var recordingJob by remember { mutableStateOf<Job?>(null) }
 
