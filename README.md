@@ -27,6 +27,6 @@
 --- 
 
 ## Reference 
-- Implemented audio recording setup parameters, buffer size calculation, and exceptions for microphone permissions with AI assistance.
+- CS501 Lecture 7 Examples 
+- Debugged audio recording setup parameters, buffer size calculation, and RMS computation with AI consultation.
 
-- Developed RMS computation, dB conversion, and normalization with help from AI.
